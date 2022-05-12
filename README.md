@@ -26,16 +26,20 @@
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="50%" height="320" />
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=swoo0" style="width:48%; padding=3px; />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=swoo0" style="width:48%; padding:3px;" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swoo0&layout=compact" style="width:48%; padding=3px;" />
+ <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swoo0&layout=compact" style="width:48%; padding:3px;" />
 </a>
 
-
-<br><br><br>
-<br><br><br>
-
+                                                                                                                                            
+                                                                                                                                            
+                                                                                                                                            
+                                                                                                                                            
+                                                                                                                                            
+                                                                                                                                            
+                                                                                                                                            
+                                                                                                                                            
 ### 🛠️ My Projects
 <a align="right" href="https://github.com/swoo0/PROSPEC'S" target="_blank"> <img alt="PROSPEC'S" src="./projects/artistify.svg" height="68" align="left"> </a>
 <a align="right" href="https://github.com/swoo0/Project-Camping" target="_blank"> <img alt="Project-Camping" src="./projects/artistify.svg" height="68" align="left"> </a>
