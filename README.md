@@ -1,6 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=250&section=header&text=Hi%20there,%20I'm%20SangWoo&fontSize=60)
 
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Hi+there%2C+i'm+Sangwoo)](https://git.io/typing-svg)
+
 
 <h2> My tech stack 📚 </h2>
 
