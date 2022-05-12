@@ -2,7 +2,7 @@
  
 <!--
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=250&section=header&text=Hi%20there,%20I'm%20SangWoo&fontSize=60)
--->
+--!>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script&size=70&center=true&vCenter=true&width=900&height=250&lines=Hi+there%2C+i'm+Sangwoo)](https://git.io/typing-svg)
 
@@ -27,21 +27,16 @@
 
 ### 📊 Github Stats
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=swoo0" style="width:48%; padding-right:5px;" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swoo0&layout=compact" style="width:48%; height:200px; padding-right:5px;" />
+</a>
+
+
+
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="48%" height="320" />
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=swoo0" style="width:48%; padding-right:5px;" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swoo0&layout=compact" style="width:48%; height:200px; padding-right:5px;" />
-</a>
-
-
-
-
-
-
-
 
 ### 🛠️ My Projects
 <a align="left" href="https://github.com/swoo0/PROSPEC'S" target="_blank"> <img alt="PROSPEC'S" src="./projects/artistify.svg" height="68" align="left"> </a>
@@ -51,34 +46,11 @@
 <br><br>
 
 
-
-
-
-
-
-
-
-
-
 <p align="center">
   <a href="https://github.com/swoo0" title="GitHub Kim SangWoo">
     <img src="https://img.shields.io/github/followers/swoo0?label=follow&style=social" alt-text="GitHub Kim SangWoo" height="30"/>
   </a>
 </p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 </div>
