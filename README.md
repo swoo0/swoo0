@@ -23,13 +23,13 @@
 
 ### 📊 Github Stats
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="50%" height="320" />
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=swoo0" width=40% />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=swoo0" width=45% />
 </a>
 <a href="https://github.com/devpla/github-stats">
- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swoo0&layout=compact" width=40% height="200" />
+ <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swoo0&layout=compact" width=45% height="200" />
 </a>
 
 
