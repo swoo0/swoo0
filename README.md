@@ -34,9 +34,6 @@
 <div>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=swoo0" style="width:54%; height:190px; padding-right:5px;" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swoo0&layout=compact" style="width:45%; height:192px; padding-right:5px;" />
 </a>
 
