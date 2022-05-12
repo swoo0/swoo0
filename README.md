@@ -1,5 +1,5 @@
 ### Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=250&section=header&text=Hi%20there%20I'm%20SangWoo&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=250&section=header&text=Hi%20there%20I'm%20SangWoo&fontSize=60)
 
 
 
