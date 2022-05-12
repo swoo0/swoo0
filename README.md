@@ -24,26 +24,13 @@
 ### 📊 Github Stats
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=swoo0" width=49.2% />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=swoo0" width=49.2% />
 </a>
 <a href="https://github.com/devpla/github-stats">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swoo0&layout=compact" width=49.2% />
+ <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swoo0&layout=compact" width=49.2% height="200" />
 </a>
 
-
-
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=swoo0)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swoo0&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-<a href='https://github.com/swoo0/github-stats-transparent'>
-</a>
-  
-  
-<br>
-
-<img align="left" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 
 
