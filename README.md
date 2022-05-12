@@ -12,11 +12,29 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
 ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=ffffff)
 
+<br>
 
+### 📊 Github Stats
+<a href='https://github.com/swoo0/github-stats-transparent'>
+
+![Stats Overview](https://raw.githubusercontent.com/swoo0/github-stats-transparent/output/generated/overview.svg)
+![Most Used Languages](https://raw.githubusercontent.com/swoo0/github-stats-transparent/output/generated/languages.svg)
+  
+</a>
+  
+  
 <br>
 
 <img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="600" height="420" />
 
+
+
+<br>
+
+
+### 🛠️ My Projects
+<a href="https://github.com/swoo0/PROSPEC'S" target="_blank"> <img alt="PROSPEC'S" src="./projects/artistify.svg" height="68" align="left"> </a>
+<a href="https://github.com/swoo0/Project-Camping" target="_blank"> <img alt="Project-Camping" src="./projects/artistify.svg" height="68" align="left"> </a>
 
 
 <br>
@@ -27,6 +45,19 @@
     <img src="https://img.shields.io/github/followers/swoo0?label=follow&style=social" alt-text="GitHub Kim SangWoo" height="30"/>
   </a>
 </p>
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
