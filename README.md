@@ -2,7 +2,7 @@
  
 <!--
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=250&section=header&text=Hi%20there,%20I'm%20SangWoo&fontSize=60)
---!>
+-->
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script&size=70&center=true&vCenter=true&width=900&height=250&lines=Hi+there%2C+i'm+Sangwoo)](https://git.io/typing-svg)
 
