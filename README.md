@@ -28,7 +28,7 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=swoo0" width=45% />
 </a>
-<a href="https://github.com/devpla/github-stats">
+<a href="https://github.com/anuraghazra/github-readme-stats">
  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swoo0&layout=compact" width=45% />
 </a>
 
