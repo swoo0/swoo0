@@ -29,7 +29,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=swoo0" style="width:48%; padding-right:5px;" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swoo0&layout=compact" style="width:48%; padding-right:5px;" />
+ <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swoo0&layout=compact" style="width:48%; height:150px; padding-right:5px;" />
 </a>
 
                                                                                                                                             
