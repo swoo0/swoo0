@@ -1,4 +1,3 @@
-### Hi there 👋
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=250&section=header&text=Hi%20there,%20I'm%20SangWoo&fontSize=60)
 
 
@@ -23,6 +22,8 @@
 <br>
 
 ### 📊 Github Stats
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=swoo0)](https://github.com/anuraghazra/github-readme-stats)
+
 <a href='https://github.com/swoo0/github-stats-transparent'>
 </a>
   
