@@ -34,10 +34,10 @@
 <div>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=swoo0" style="width:55%; height:190px; padding-right:5px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=swoo0" style="width:52%; height:190px; padding-right:5px;" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swoo0&layout=compact" style="width:43%; height:192px; padding-right:5px;" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swoo0&layout=compact" style="width:46%; height:192px; padding-right:5px;" />
 </a>
 
 
