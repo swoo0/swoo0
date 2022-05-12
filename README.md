@@ -1,7 +1,11 @@
+<div align="center">
+ 
+<!--
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=250&section=header&text=Hi%20there,%20I'm%20SangWoo&fontSize=60)
-
+--!>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script&size=70&center=true&vCenter=true&width=900&height=250&lines=Hi+there%2C+i'm+Sangwoo)](https://git.io/typing-svg)
+
 
 <h2> My tech stack 📚 </h2>
 
@@ -18,7 +22,6 @@
 ![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 <br>
 
@@ -33,14 +36,13 @@
  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swoo0&layout=compact" style="width:48%; height:200px; padding-right:5px;" />
 </a>
 
-                                                                                                                                            
-                                                                                                                                            
-                                                                                                                                            
-                                                                                                                                            
-                                                                                                                                            
-                                                                                                                                            
-                                                                                                                                            
-                                                                                                                                            
+
+
+
+
+
+
+
 ### 🛠️ My Projects
 <a align="left" href="https://github.com/swoo0/PROSPEC'S" target="_blank"> <img alt="PROSPEC'S" src="./projects/artistify.svg" height="68" align="left"> </a>
 <a align="left" href="https://github.com/swoo0/Project-Camping" target="_blank"> <img alt="Project-Camping" src="./projects/artistify.svg" height="68" align="left"> </a>
@@ -79,7 +81,7 @@
 
 
 
-
+</div>
 
 <!--
 **swoo0/swoo0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
