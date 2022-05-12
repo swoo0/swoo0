@@ -29,7 +29,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=swoo0" width=45% />
 </a>
 <a href="https://github.com/devpla/github-stats">
- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swoo0&layout=compact" width=45% height="200" />
+ <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swoo0&layout=compact" width=45% />
 </a>
 
 
