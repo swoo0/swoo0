@@ -56,8 +56,7 @@
 <a align="left" href="https://github.com/swoo0/Project-Camping" target="_blank"> <img alt="Project-Camping" src="./projects/artistify.svg" height="68"></a>
 
 
-<br><br>
- 
+<br><br><br><br> 
 
 
 <p align="center">
