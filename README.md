@@ -25,20 +25,24 @@
 
 <br>
 
-### 📊 Github Stats
+ <h2> 📊 Github Stats </h2>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=swoo0" style="width:48%; padding-right:5px;" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swoo0&layout=compact" style="width:48%; height:200px; padding-right:5px;" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swoo0&layout=compact" style="width:48%; height:192px; padding-right:5px;" />
 </a>
 
 
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="48%" height="320" />
 
-### 🛠️ My Projects
+<div align="left">
+  <h2> 🛠️ My Projects </h2>
+</div>
+ 
+ 
 <a align="left" href="https://github.com/swoo0/PROSPEC'S" target="_blank"> <img alt="PROSPEC'S" src="./projects/artistify.svg" height="68" align="left"> </a>
 <a align="left" href="https://github.com/swoo0/Project-Camping" target="_blank"> <img alt="Project-Camping" src="./projects/artistify.svg" height="68" align="left"> </a>
 
