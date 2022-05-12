@@ -22,7 +22,8 @@
 <br>
 
 ### 📊 Github Stats
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=swoo0)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=swoo0)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <a href='https://github.com/swoo0/github-stats-transparent'>
 </a>
