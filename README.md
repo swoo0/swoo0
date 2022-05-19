@@ -48,7 +48,7 @@
  
 <br> 
  
-<a align="left" href="https://github.com/swoo0/PROSPEC-S" target="_blank"> <img src="https://github.com/swoo0/projects/blob/master/PROSPEC'S_logo.png" alt="logo" height="68"></a>
+<a align="left" href="https://github.com/swoo0/PROSPECS" target="_blank"> <img src="https://github.com/swoo0/projects/blob/master/PROSPEC'S_logo.png" alt="logo" height="68"></a>
 
 <br>
 
