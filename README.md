@@ -44,7 +44,7 @@
   <h2> 🛠️ My Projects </h2>
 </div>
  
-<img align="right" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" height="320" />
+<img align="right" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="48%" height="320" />
  
 <br> 
  
