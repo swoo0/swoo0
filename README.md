@@ -40,7 +40,7 @@
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swoo0&layout=compact" style="width:45%; height:192px; padding-right:5px;" />
 </a>
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="48%" height="320" />
+<img align="right" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="48%" height="320" />
 
 <div align="left">
   <h2> 🛠️ My Projects </h2>
@@ -48,11 +48,17 @@
  
 <br> 
  
-<a align="left" href="https://github.com/swoo0/PROSPECS" target="_blank"> <img src="https://github.com/swoo0/projects/blob/master/PROSPEC'S_logo.png" alt="logo" height="68"></a>
+<img align="right" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="48%" height="320" />
+ 
+<a align="left" href="https://github.com/swoo0/PROSPECS" target="_blank">
+ <img src="https://github.com/swoo0/projects/blob/master/PROSPEC'S_logo.png" alt="logo" height="68">
+</a>
 
 <br>
 
-<a align="left" href="https://github.com/swoo0/BES" target="_blank"> <img src="https://github.com/swoo0/projects/blob/master/Breathing_logo.png" alt="logo" height="68"></a>
+<a align="left" href="https://github.com/swoo0/BES" target="_blank">
+ <img src="https://github.com/swoo0/projects/blob/master/Breathing_logo.png" alt="logo" height="68">
+ </a>
 
 
 <br><br><br>
